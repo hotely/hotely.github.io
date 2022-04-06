@@ -1,0 +1,1 @@
+!function(){"use strict";(self.webpackChunkhotely=self.webpackChunkhotely||[]).push([[1952],{71952:function(e,n,t){t.r(n),t(6423)}}])}();
