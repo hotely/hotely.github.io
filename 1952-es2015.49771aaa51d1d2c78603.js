@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhotely=self.webpackChunkhotely||[]).push([[1952],{71952:function(e,h,s){s.r(h),s(6423)}}]);
